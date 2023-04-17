@@ -1,6 +1,6 @@
 # Учебный проект 
 
-## "Научиться учиться"
+## ["Научиться учиться"](https://missssssska.github.io/project-how-to-learn/)
 
 *О чем проект*
 
